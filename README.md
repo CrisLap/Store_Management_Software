@@ -1,6 +1,6 @@
-# Store_Management_Software
+Store Management Software
 
-#Creation of a software for the management of a vegan shop. The software has the following features:
+Creation of a software for the management of a vegan shop. The software has the following features:
 
 * Registration of new products, with name, quantity, selling price and purchase price;
 * List of all the products contained in the stock;
